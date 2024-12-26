@@ -1,5 +1,5 @@
 
-working on networking design
-learning algrithms on optimization 
+- working on networking design
+- learning algrithms on optimization 
 
 
